@@ -1,0 +1,14 @@
+# Internal tools — not for public release
+Quick Start Template.md
+
+# OneDrive sync artifacts
+~$*
+.~lock.*
+desktop.ini
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# The empty legacy folder (OneDrive may hold it briefly)
+We Practices - latest versions/
