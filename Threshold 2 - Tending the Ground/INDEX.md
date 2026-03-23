@@ -2,7 +2,7 @@
 
 *The physical, informational, emotional, and economic ecology around the relationship.*
 
-The practice-level answer to the Adversary, the Great Divergence, the Great Decoupling, and the Great Mismatch. Five sub-thresholds, ten practices.
+The practice-level answer to the Adversary, the Great Divergence, the Great Decoupling, and the Great Mismatch. Five sub-thresholds, twelve practices.
 
 ## Nourishing Our Bodies
 
@@ -28,5 +28,7 @@ The practice-level answer to the Adversary, the Great Divergence, the Great Deco
 
 9. Tending Our Social World
 10. Navigating Economic Reality
+11. Communing with the Natural World
+12. Energy Auditing and Budgeting
 
-*10 practices total*
+*12 practices total*

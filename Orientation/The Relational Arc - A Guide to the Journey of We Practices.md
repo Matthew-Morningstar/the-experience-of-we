@@ -218,6 +218,14 @@ Social ecology. Other people's relational patterns are contagious — we absorb 
 *A Shared Practice for Money, Time, and What We Can Afford*
 Financial and economic ecology. Money is one of the most powerful and least examined forces acting on relationships. Economic stress shapes what a relational system can afford to do — including the time and energy available for practice itself. Shared financial awareness, honest reckoning with economic constraints, and navigating economic reality as a relational system.
 
+**Communing with the Natural World Together**
+*A Shared Practice for Remembering We Are Inside the Living World*
+Re-establishing a relationship with the living world — not nature as backdrop or destination, but as a field we are always inside of. How the modern built environment severs our sensory relationship with the earth, why the nervous system needs the inputs it evolved to process, and what changes when two people include the living world as a participant in the relational field. The third presence that reduces pressure on the dyad and makes connection easier.
+
+**Energy Auditing and Budgeting Together**
+*A Shared Practice for Stewarding the Life-Force That Flows Through Us*
+Making the invisible energy flows of a shared life visible. Not just physical energy — emotional capacity, cognitive bandwidth, relational availability, and meaning itself. How modern life systematically obscures energy reality through overcommitment, override, and external metrics. How energy flows between partners create invisible imbalances that show up as relational problems. Shared auditing (seeing the flows) and budgeting (shaping them with intention) — stewardship, not optimization.
+
 ---
 
 ## Threshold 3: Deepening
@@ -395,6 +403,10 @@ Replacing reflexive "thank you" with honest perception of what was received and 
 **Creating Together**
 *A Shared Practice for Generativity and Co-Creation*
 Bringing something new into being through our combined presence and effort. What we create together becomes part of our shared story.
+
+**Exploring Awe and Wonder Together**
+*A Shared Practice for Opening to What Is Larger Than Us*
+What happens when reality exceeds our maps and the nervous system opens rather than defends. Awe as a rare blending of arousal and safety that softens the self, synchronizes two nervous systems, and makes the relational field directly perceptible. Shared encounters with vastness — nature, beauty, birth, death, the relational field itself — as one of the oldest and most powerful forms of human bonding. The practice of seeking, stopping for, and metabolizing what is larger than us.
 
 ### Being Alive Together
 

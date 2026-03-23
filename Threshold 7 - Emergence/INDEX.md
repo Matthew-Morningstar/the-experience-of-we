@@ -2,7 +2,7 @@
 
 *What becomes possible when the foundation is solid.*
 
-Two sub-thresholds, ten practices.
+Two sub-thresholds, eleven practices.
 
 ## What Becomes Possible
 
@@ -11,13 +11,14 @@ Two sub-thresholds, ten practices.
 3. Practicing Love
 4. Acknowledging and Returning
 5. Creating
+6. Exploring Awe and Wonder
 
 ## Being Alive Together
 
-6. Shared Embodiment
-7. Playing
-8. Grieving
-9. Resting
-10. Becoming Ourselves
+7. Shared Embodiment
+8. Playing
+9. Grieving
+10. Resting
+11. Becoming Ourselves
 
-*10 practices total*
+*11 practices total*
