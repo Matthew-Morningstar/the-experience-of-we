@@ -4,17 +4,15 @@
 
 Hello, dear companions.
 
-There is a particular kind of blindness that comes from knowing someone well.
+There are two kinds of knowing that can get in the way of what's actually happening between us.
 
-Over time, we build a model of our companion — who they are, what they think, how they'll react, what they mean when they say certain things. This model becomes efficient. We can predict. We can take shortcuts. We know.
+The first is knowing our companion. Over time, we build a model of who they are — what they think, how they'll react, what they mean when they say certain things. This model becomes efficient. We can predict. We can take shortcuts. We know. But the model isn't the person. The person is alive, changing, full of dimensions we haven't discovered. When we relate to our model instead of the living person in front of us, something essential dies. We stop being surprised. We stop asking questions we think we know the answers to. We stop seeing.
 
-But the model isn't the person.
+The second is knowing how to be in relationship. Everyone who arrives here brings their own version — strategies learned from past partners, approaches absorbed from family, insights gained from therapy or self-help or spiritual practice. We all feel we know something about relating, because we do. And this very knowledge can become the biggest obstacle to encountering what's genuinely new about doing it *here*, *together*, *with this specific person*, inside a practice that may ask us to work differently than we ever have.
 
-The person is alive, changing, full of dimensions we haven't discovered. The model is static, built from accumulated experience, increasingly outdated with every passing day. When we relate to our model instead of the living person in front of us, something essential dies. We stop being surprised. We stop asking questions we think we know the answers to. We stop seeing.
+Beginner's mind is the practice of setting aside both kinds of knowing and looking again, with fresh eyes. In the beginner's mind, there are many possibilities. In the expert's mind, there are few.
 
-Beginner's mind is the practice of setting aside what we think we know and looking again, with fresh eyes. In the beginner's mind, there are many possibilities. In the expert's mind, there are few.
-
-After years together, we may believe we are experts on each other. This practice invites us to become beginners again — and to discover what we've been missing.
+Whether we've been together for decades or are just beginning — whether we've done years of inner work or are encountering these ideas for the first time — this practice invites us to become beginners. Not because what we know is wrong, but because what we know can prevent us from discovering what we don't.
 
 ~Matthew and Naomi Danielle Morningstar
 
@@ -22,20 +20,20 @@ After years together, we may believe we are experts on each other. This practice
 
 ## How we use this guide
 
-We created this guide to be read and practiced together — by partners, friends, family members, or anyone who wants to develop their shared capacity to see each other with fresh eyes, no matter how long they've been together.
+We created this guide to be read and practiced together — by partners, friends, family members, or anyone who wants to develop their shared capacity to see each other with fresh eyes and to approach conscious relating as something genuinely new.
 
 We recommend:
 
 - **Reading together**, aloud or taking turns
-- **Practicing the exercises** when we're open to being surprised
-- **Returning to this guide** when the relationship feels stale or stuck
-- **Building shared vocabulary** for talking about assumptions and fresh seeing
+- **Practicing the exercises** when we're open to being surprised — about each other and about the process itself
+- **Returning to this guide** when the relationship feels stale or stuck, or when we notice we're coasting on what we think we already know
+- **Building shared vocabulary** for talking about assumptions, fresh seeing, and what it means to be a genuine beginner at something we may have been doing for years
 
 We've structured this guide based on the **Golden Triangle**, a framework that helps us understand and consciously shape our experiences. By focusing on three key aspects — **Experience**, **Process**, and **Practice** — we can gain a deeper understanding of our relational world and learn to cultivate the states we want to live in together.
 
-- **Experience** is the felt sense itself: what it feels like to see and be seen with fresh eyes, and what it feels like when we're trapped in old models of each other.
-- **Process** is how that experience develops and unfolds: how models form, how they calcify, and how beginner's mind becomes possible again.
-- **Practice** is what we actively do: the concrete ways we cultivate the capacity to see each other fresh.
+- **Experience** is the felt sense itself: what it feels like to see and be seen with fresh eyes, what it feels like to approach the practice of relating as genuinely new, and what it feels like when we're trapped in old models — of each other or of how relationships work.
+- **Process** is how that experience develops and unfolds: how models form, how prior knowledge can become its own obstacle, and how beginner's mind becomes possible again.
+- **Practice** is what we actively do: the concrete ways we cultivate the capacity to see each other fresh and to approach this work with genuine openness.
 
 The Golden Triangle recognizes the dynamic, cyclical nature of these elements, with each one supporting and enhancing the others in an ongoing process of growth and transformation.
 
@@ -72,6 +70,18 @@ Being on the receiving end of beginner's mind has its own quality:
 - **Existence.** We feel genuinely seen rather than glossed over.
 
 When someone looks at us with beginner's mind, we exist more fully in their presence.
+
+### When we approach the practice itself with beginner's mind
+
+There's another dimension of beginner's mind that matters here — especially for those of us who have done personal work, studied communication, practiced mindfulness, or been in relationships where we learned a lot about how to connect:
+
+- **Humility.** We recognize that what we know about relating may or may not apply here. This specific person, this specific practice, this specific moment — none of it has happened before, no matter how experienced we are.
+- **Openness to structure.** We let the practice guide us rather than deciding in advance what we'll get from it. "I already know how to listen" becomes "I wonder what listening looks like inside this practice, with this person."
+- **Release of expertise.** We set down the identity of someone who is good at relationships, good at communication, good at presence. Not because those skills aren't real — but because holding them tightly prevents us from being genuinely taught by the encounter.
+- **Freshness toward familiar concepts.** Presence, co-regulation, attunement, boundaries — we may have worked with all of these before. But doing them *explicitly, with structure, with this unique relational companion* is new to everyone. The concept is familiar; the lived practice, here, together, is not.
+- **Willingness to be a beginner.** This is the hardest part for people who have done significant inner work. The practice asks us to be clumsy, uncertain, surprised — even about things we thought we'd mastered. The willingness to be genuinely new at something is the door through which real discovery enters.
+
+When we bring this quality to the practices, something shifts. We stop performing competence and start actually engaging. We stop comparing this to what we've done before and start discovering what's possible now.
 
 ### When we're trapped in old models
 
@@ -139,6 +149,24 @@ Several forces make models increasingly rigid:
 **Identity investment.** Our sense of who we are may depend on our model of who they are.
 
 **Fear.** Fresh seeing might reveal something we don't want to know.
+
+### The expert's trap
+
+There is a particular form of model that deserves its own attention: the model of ourselves as someone who already knows how to do this.
+
+This trap catches the people who are most prepared:
+
+**The therapy veteran** who has done deep work on attachment, communication, and emotional regulation — and arrives at these practices thinking they're a review of familiar territory. They may be right about the concepts. But doing them with this person, in this structure, inside this relational field, is a different experience than understanding them intellectually.
+
+**The spiritual practitioner** who has practiced presence, mindfulness, and compassion for years — and assumes that this collection is simply another language for what they already do. The inner work may be genuine. But relational practice — practice done *with and between* two people — reveals things that solitary practice cannot.
+
+**The relationally experienced** person who has been in many relationships, who has learned from their mistakes, who knows what works and what doesn't — and approaches a new partnership with a playbook built from past experience. The playbook may contain real wisdom. But this partner is not the last one, this dynamic is not the old one, and what worked before may not be what's needed now.
+
+**The well-read partner** who has consumed books on relationships, attended workshops, studied nonviolent communication — and meets each practice with "I already know this." The knowledge is real. But knowledge *about* relating is not the same as the lived, embodied, relational experience of doing it together.
+
+In each case, prior knowledge creates a subtle but powerful filter: *I know what this is. I've seen this before. I'm already past this.* And that filter prevents the very openness that the practice requires.
+
+The antidote is not to pretend we don't know anything. It's to hold what we know as a resource rather than a conclusion — to bring our experience *into* the practice rather than letting it stand *over* the practice. "I've done work on this, and I'm curious what it looks like here, with you" is a fundamentally different orientation than "I already know how to do this."
 
 ### What dissolves models
 
@@ -254,6 +282,20 @@ Not letting old experiences determine current perception.
 
 ---
 
+### We approach each practice as new
+
+Bringing beginner's mind not just to our companion, but to the act of practicing together.
+
+- **We arrive without assumptions about what will happen.** Each time we open a practice guide, each time we sit down to do an exercise, we let go of what happened last time. "Last time this practice felt awkward" doesn't mean it will today. "Last time I had a breakthrough" doesn't mean I will today. We arrive fresh.
+- **We set aside what we've learned elsewhere.** Not discard — set aside. "In therapy, I learned to..." "In my last relationship, this worked by..." We honor that knowledge and we hold it lightly. This is not therapy. This is not the last relationship. This is here, now, with this person. Let it be what it is.
+- **We notice when expertise is blocking us.** "I already know how to listen" might mean "I've stopped actually listening because I'm confident in my skill." "I already understand co-regulation" might mean "I've stopped noticing what's actually happening in my nervous system because I have a concept for it." When the concept replaces the experience, we've lost beginner's mind.
+- **We let ourselves be clumsy.** Good relational practice doesn't look polished. It looks like two people trying something, getting it wrong, laughing, adjusting, trying again. The willingness to be bad at something is often more productive than the need to be good at it.
+- **We celebrate what surprises us.** "I didn't expect that to work like that." "I thought I knew what this practice was about, and I was wrong." "Something happened between us that I've never experienced before, even though the exercise seemed simple." Surprise is evidence that beginner's mind is working.
+
+*When to use: Before and during any practice session. When we notice ourselves going through the motions. When prior experience is creating a sense of "I already know this." When we want to approach familiar territory with genuine freshness.*
+
+---
+
 ### We practice mutual beginner's mind
 
 Making fresh seeing a shared orientation.
@@ -327,25 +369,25 @@ Making fresh seeing a shared orientation.
 
 Beginner's mind is more than a relationship technique. It's a practice of presence — the commitment to encountering what's actually here rather than our ideas about it.
 
-Our companions aren't the only ones we build models of. We model ourselves, our world, reality itself. These models become prisons when we mistake them for truth. Beginner's mind is freedom — the willingness to not know, to look again, to be surprised.
+Our companions aren't the only things we build models of. We model ourselves, our relationships, reality itself. We model what we're capable of together, what practices can and can't do, how growth works. These models become prisons when we mistake them for truth. Beginner's mind is freedom — the willingness to not know, to look again, to be surprised.
 
-In relationship, beginner's mind keeps love alive. Love is attention. When we stop looking, we stop loving — not through cruelty, but through absence. Beginner's mind is the practice of continuing to show up, continuing to look, continuing to discover.
+In relationship, beginner's mind keeps love alive. Love is attention. When we stop looking — at each other, at the practice, at what's emerging between us — we stop loving. Not through cruelty, but through absence. Beginner's mind is the practice of continuing to show up, continuing to look, continuing to discover.
 
-The person we've been with for decades isn't the same person we met. Neither are we. Beginner's mind lets us meet again, and again, and again — always for the first time.
+The person we've been with for decades isn't the same person we met. The practice we did last month isn't the same practice this month. Neither are we. Beginner's mind lets us meet again, and again, and again — always for the first time. It also lets us approach each practice, each conversation, each attempt at conscious connection as if we've never done it before — because in the way that matters most, we haven't.
 
 ---
 
 ## Our commitment to beginner's mind
 
-By practicing with this guide, we commit to seeing each other fresh — to setting aside what we think we know and looking again with curious, open eyes.
+By practicing with this guide, we commit to seeing each other fresh and to approaching this work with genuine openness — to setting aside what we think we know about each other and about how to be in relationship, and looking again with curious, open eyes.
 
-We will notice the models we carry and hold them lightly. We will practice not knowing. We will ask questions we think we know the answers to. We will invite surprise. We will release the past's grip on how we see each other now.
+We will notice the models we carry — of each other and of ourselves — and hold them lightly. We will practice not knowing. We will ask questions we think we know the answers to. We will invite surprise. We will release the past's grip on how we see each other now. We will approach each practice as new, letting it teach us rather than confirming what we already believe.
 
-We won't always do this well. We'll slip back into assumptions, relate to our models, see through old lenses. We'll sometimes prefer the comfort of certainty to the vulnerability of not knowing.
+We won't always do this well. We'll slip back into assumptions, relate to our models, see through old lenses. We'll sometimes prefer the comfort of certainty to the vulnerability of not knowing. We'll sometimes coast on expertise when the practice is asking us to be clumsy.
 
-But now we have a practice for returning. We know that our models aren't each other. We know that fresh seeing is always available when we choose it. We know that somewhere beneath our assumptions, the living person waits to be discovered — again, and again, and again.
+But now we have a practice for returning. We know that our models aren't each other. We know that our knowledge about relating isn't the same as the lived experience of relating, here, together, now. We know that fresh seeing is always available when we choose it. We know that somewhere beneath our assumptions, the living person — and the living practice — waits to be discovered.
 
-May we see each other with fresh eyes. May we remain curious about who each other is becoming. May we never stop discovering each other.
+May we see each other with fresh eyes. May we remain curious about who each other is becoming. May we approach this work as genuine beginners — not because we know nothing, but because what we're doing together has never been done before.
 
 In the beginner's mind, there are many possibilities. Let us keep beginning — together.
 

@@ -14,6 +14,8 @@ Then something shifted. We stopped trying to transform our entire relational lif
 
 That's the method underneath everything in We Practices. This guide explains how it works.
 
+A note: we describe this method through our experience as a couple, because that's where we learned it. But the method itself — one small practice at a time, integrated gradually, until it becomes part of how you are together — works in any relational configuration. Friends practicing presence during their weekly dinners. A small group building shared listening skills. A family learning to check in differently. Even someone practicing alone, building capacities one at a time. The shape adapts; the principle holds.
+
 ~Matthew and Naomi Danielle Morningstar
 
 ---
@@ -42,11 +44,11 @@ One principle we've found useful: choose practices that are slightly ahead of wh
 
 **Read the guide together.** Aloud or taking turns. Pause where something resonates. Discuss what comes up. The reading itself is relational; it's not homework to get through, it's a shared encounter with an idea.
 
-**Set a shared intention.** Talk about why this practice matters to you both. What would it look like in your daily life? What are you hoping will shift? The intention doesn't need to be precise. It needs to be honest and shared.
+**Set a shared intention.** Talk about why this practice matters. What would it look like in your life together — whether that's a shared home, a weekly meeting, or a friendship that gathers around these practices? What are you hoping will shift? The intention doesn't need to be precise. It needs to be honest and shared.
 
 **Start in easy moments.** Don't introduce a new practice during a fight or a crisis. Begin when things are calm, when you have space, when the stakes are low. A practice first learned under pressure will be associated with pressure. A practice first learned in safety becomes a resource you can bring to difficulty later.
 
-**Be specific about when you'll practice.** "We'll practice deep listening" is an aspiration. "We'll practice deep listening during our evening check-in" is a commitment. Tying the practice to a specific moment in your routine makes it more likely to happen. The practice becomes part of the rhythm of your life rather than an additional demand on it.
+**Be specific about when you'll practice.** "We'll practice deep listening" is an aspiration. "We'll practice deep listening during our evening check-in" — or "during our Sunday calls" or "when our group meets on Wednesdays" — is a commitment. Tying the practice to a specific moment in your shared rhythm makes it more likely to happen. The practice becomes part of how you are together rather than an additional demand on it.
 
 **Expect it to feel awkward.** New practices feel mechanical at first. You'll feel like you're performing rather than being genuine. This is normal and it passes. Every skill feels artificial before it becomes natural. The awkwardness isn't a sign that you're doing it wrong; it's a sign that you're doing something new.
 

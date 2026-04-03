@@ -6,9 +6,11 @@
 
 We were built to settle together. Our nervous systems were designed for co-regulation, not solo operation. But most of us learned somewhere along the way that we're supposed to handle things alone. Manage our emotions. Self-soothe. Keep it together.
 
-The Experience of We is a collection of shared practices for two people who want to learn how to be in relationship more deliberately. Not self-help. Not therapy. Not advice. A technology — a structured, developmental, biologically grounded system for tending the living space between us.
+The Experience of We is a collection of shared practices for people who want to learn how to be in relationship more deliberately. Not self-help. Not therapy. Not advice. A technology — a structured, developmental, biologically grounded system for tending the living space between us.
 
-It was born from a simple observation: the relational field — the space between two people in genuine contact — has capacities that neither person has alone. It can regulate. It can metabolize complexity. It can generate insight, meaning, and creative possibility that don't exist in either individual. And it can be tended. Deliberately. With practice.
+These practices were developed in and for dyadic relationship — two people practicing together. That's their native context and where they carry the most specificity. But the capacities they develop are human capacities, not couple capacities. If you're beginning on your own, these guides can serve as a mirror and a map for building the foundation of relational skill. If you're practicing in a small group, many exercises adapt naturally. Versions specifically designed for individual and group practice are part of our future development. For now, we invite you to adapt what's here to the shape of your own relational life.
+
+It was born from a simple observation: the relational field — the space between people in genuine contact — has capacities that no individual has alone. It can regulate. It can metabolize complexity. It can generate insight, meaning, and creative possibility that don't exist in any of us separately. And it can be tended. Deliberately. With practice.
 
 This repository contains the full practice system, released as open-source relational technology under a Creative Commons license. It belongs to everyone.
 
@@ -77,9 +79,13 @@ Eight documents that help you enter the practice — from understanding what the
 
 ## How to use this
 
-**If you want to try one thing tonight:** Open any [quick start](Quick%20Starts/). Read it in two minutes. Try the practice with someone. Notice what shifts.
+**If you want to try one thing tonight:** Open any [quick start](Quick%20Starts/). Read it in two minutes. Try the practice with someone you trust. Notice what shifts.
 
-**If you want to build a sustained practice:** Start with the [Welcome](Orientation/Welcome%20to%20The%20Experience%20of%20We%20-%20An%20Invitation%20to%20the%20Journey%20of%20Reunion.md) document. Read [Before You Begin](Orientation/Before%20You%20Begin%20-%20What%20This%20Work%20Asks%20and%20When%20to%20Wait.md) to understand what the work asks. Read the [Relational Arc](Orientation/The%20Relational%20Arc%20-%20A%20Guide%20to%20the%20Journey%20of%20We%20Practices.md) to understand the developmental path. Begin with Threshold 1.
+**If you want to build a sustained practice with a companion:** Start with the [Welcome](Orientation/Welcome%20to%20The%20Experience%20of%20We%20-%20An%20Invitation%20to%20the%20Journey%20of%20Reunion.md) document. Read [Before You Begin](Orientation/Before%20You%20Begin%20-%20What%20This%20Work%20Asks%20and%20When%20to%20Wait.md) to understand what the work asks. Read the [Relational Arc](Orientation/The%20Relational%20Arc%20-%20A%20Guide%20to%20the%20Journey%20of%20We%20Practices.md) to understand the developmental path. Begin with Threshold 1.
+
+**If you're beginning on your own:** Read [Beginning on Your Own](Orientation/Beginning%20on%20Your%20Own%20-%20A%20Guide%20to%20Practicing%20Before%20You%20Find%20Your%20Companion.md) for honest guidance on what solo practice can build and how to use the guides individually. The work you do alone is real and builds the foundation for everything relational.
+
+**If you're practicing in a small group:** The guides are written in "we" voice and most exercises adapt naturally to three or more people. Read them together, do the reflections as a group, and let the relational field that forms between you guide the adaptation.
 
 **If you want to understand the ideas first:** Read the [foundational concepts](Foundational%20Concepts/), starting with [Understanding the Relational Field](Foundational%20Concepts/Understanding%20the%20Relational%20Field%20-%20What%20Lives%20Between%20Us.md).
 

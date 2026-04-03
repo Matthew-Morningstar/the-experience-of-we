@@ -6,16 +6,16 @@ The ground everything else stands on. Four sub-thresholds, twenty practices.
 
 ## Creating the Container
 
-1. Beginner's Mind
-2. Consent
-3. Positive Regard
+1. Presence
+2. Positive Regard
+3. Consent
 4. Boundaries
 5. Accountability
 
 ## Showing Up
 
-6. Presence
-7. Co-Regulation
+6. Co-Regulation
+7. Beginner's Mind
 8. Deep Listening
 9. Sharing Reflections
 10. Curiosity

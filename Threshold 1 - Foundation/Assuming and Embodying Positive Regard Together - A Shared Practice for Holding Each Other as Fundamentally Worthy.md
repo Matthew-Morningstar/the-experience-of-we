@@ -20,7 +20,7 @@ When positive regard is present, everything else becomes possible. When it's abs
 
 ## How we use this guide
 
-We created this guide to be read and practiced together — by partners, friends, family members, or anyone who wants to develop their shared capacity to hold each other with unconditional positive regard.
+We created this guide to be read and practiced together — by partners, friends, family members, or anyone who wants to develop their shared capacity to hold each other as fundamentally worthy — with genuine acceptance and clear boundaries.
 
 We recommend:
 
