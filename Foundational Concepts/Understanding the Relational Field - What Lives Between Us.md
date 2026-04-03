@@ -110,7 +110,7 @@ And when **reunion** emerges — that felt sense of being genuinely, fully conne
 
 The field is the medium. The practices are how we tend it. And what emerges when it's tended well is more than either of us could create alone.
 
-Every practice in the Relational Arc — from the foundational work of Threshold 1 through the emergent capacities of Threshold 7 — is a way of sensing, stabilizing, or repairing the relational field. The Arc, understood this way, is field stewardship training: a developmental path for learning to tend the living space between us with increasing skill, depth, and care.
+Every practice in the Relational Arc — from the foundational work of Threshold 1 through the emergent capacities of Threshold 8 — is a way of sensing, stabilizing, or repairing the relational field. The Arc, understood this way, is field stewardship training: a developmental path for learning to tend the living space between us with increasing skill, depth, and care.
 
 ## The wider field
 

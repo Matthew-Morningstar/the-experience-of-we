@@ -28,23 +28,24 @@ This repository contains the full practice system, released as open-source relat
 
 ### Practice Guides
 
-The full system. 68 shared practices organized into a developmental arc — the Relational Arc — that maps the journey from foundation to emergence. Each guide holds the complete practice: what it feels like (Experience), how it works (Process), and what to do (Practice).
+The full system. Shared practices organized into a developmental arc — the Relational Arc — that maps the journey from foundation to emergence and beyond. Each guide holds the complete practice: what it feels like (Experience), how it works (Process), and what to do (Practice).
 
 Each threshold has its own folder:
 
-The practices are organized into nine thresholds:
+The practices are organized into ten thresholds:
 
 | Threshold | Name | Practices | What it develops |
 |-----------|------|-----------|-----------------|
 | 1 | **Foundation** | 20 | Presence, perception, honesty, and the agreements that make practice safe |
-| 2 | **Tending the Ground** | 10 | The physical, informational, emotional, and economic ecology around the relationship |
-| 3 | **Deepening** | 6 | Shared perception, emotional processing, meaning-making |
+| 2 | **Tending the Ground** | 12 | The physical, informational, emotional, and economic ecology around the relationship |
+| 3 | **Deepening** | 7 | Shared perception, emotional processing, meaning-making |
 | 4 | **Navigating Challenge** | 9 | Working with friction, shadows, triggers, trauma, and different capacities |
 | 5 | **Repairing** | 4 | Healing ruptures, taking responsibility, releasing what was done |
-| 6 | **Transforming** | 5 | Embodying new patterns until they become natural |
-| 7 | **Emergence** | 10 | What becomes possible when the foundation is solid — creativity, play, grief, love, rest |
-| 8 | **The Larger Pattern** | 3 | Meta-practices that synthesize the whole journey |
-| 9 | **Beginning Again** | 1 | Honoring the cycle and starting the next turn |
+| 6 | **Transforming** | 6 | Embodying new patterns until they become natural |
+| 7 | **The Body Between Us** | 8+ | Knowing the body, honoring its rhythms, understanding its expression, and the full spectrum of conscious physical contact |
+| 8 | **Emergence** | 12 | What becomes possible when the foundation is solid — creativity, play, grief, love, rest |
+| 9 | **The Larger Pattern** | 4 | Meta-practices that synthesize the whole journey |
+| 10 | **Beginning Again** | 1 | Honoring the cycle and starting the next turn |
 
 The arc is a spiral, not a ladder. You revisit earlier thresholds at deeper levels. Every return is the practice, not a failure.
 

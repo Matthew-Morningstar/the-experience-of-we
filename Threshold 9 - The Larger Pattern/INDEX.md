@@ -1,4 +1,4 @@
-# Threshold 8: The Larger Pattern
+# Threshold 9: The Larger Pattern
 
 *Meta-practices that synthesize the whole journey.*
 

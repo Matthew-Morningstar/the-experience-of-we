@@ -274,7 +274,7 @@ Letting ourselves be genuinely astonished by who this person is — not as perfo
 **What we've found helps:**
 
 - **We check our motivation.** Are we seeking awe to open, or to escape? The question is honest and worth asking.
-- **We keep the sequence.** Awe lives in Threshold 7 for a reason — it becomes possible after the foundational work of presence, boundaries, repair, and transformation. If we haven't done that work, awe can become a beautiful distraction from what actually needs tending.
+- **We keep the sequence.** Awe lives in Threshold 8 for a reason — it becomes possible after the foundational work of presence, boundaries, repair, and transformation. If we haven't done that work, awe can become a beautiful distraction from what actually needs tending.
 - **We let awe serve the relationship, not replace the work.** After the mountaintop, we come home. We do the dishes. We have the difficult conversation. Awe opens us — but what we do with that openness is what matters.
 
 ---

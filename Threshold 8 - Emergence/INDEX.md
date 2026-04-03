@@ -1,4 +1,4 @@
-# Threshold 7: Emergence
+# Threshold 8: Emergence
 
 *What becomes possible when the foundation is solid.*
 

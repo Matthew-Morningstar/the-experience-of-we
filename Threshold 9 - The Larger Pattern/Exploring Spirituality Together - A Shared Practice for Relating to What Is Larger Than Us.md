@@ -107,7 +107,7 @@ This is a human capacity — the ability to perceive and relate to larger-scale 
 
 ### A note on readiness
 
-This practice deepens most safely when the foundational relational practices — presence, safety, boundaries, repair, and attunement — are already alive between us. Spiritual exploration without relational grounding can amplify bypassing, destabilize people who don't yet have co-regulatory support, and create confusion between spiritual experience and unprocessed emotional material. This guide lives in Threshold 8 for a reason: it builds on everything that came before.
+This practice deepens most safely when the foundational relational practices — presence, safety, boundaries, repair, and attunement — are already alive between us. Spiritual exploration without relational grounding can amplify bypassing, destabilize people who don't yet have co-regulatory support, and create confusion between spiritual experience and unprocessed emotional material. This guide lives in Threshold 9 for a reason: it builds on everything that came before.
 
 ### How spiritual sensitivity works
 
@@ -303,7 +303,7 @@ Keeping the spiritual dimension alive by continuing to ask, rather than settling
 
 **What we've found helps:**
 
-- **We check the sequence.** This guide lives in Threshold 8 for a reason — it becomes available after the foundational, deepening, challenge, repair, and transformation work has been done. If we're using spiritual practice to skip earlier thresholds, the practice is serving avoidance, not depth.
+- **We check the sequence.** This guide lives in Threshold 9 for a reason — it becomes available after the foundational, deepening, challenge, repair, and transformation work has been done. If we're using spiritual practice to skip earlier thresholds, the practice is serving avoidance, not depth.
 - **We ask the honest question.** "Are we exploring the sacred right now, or are we avoiding something human?" The answer is usually felt rather than thought. The body knows.
 - **We let the spiritual support the relational, not replace it.** Spiritual depth should make us more available to the messy human work, not less. If it's doing the opposite, something has gone sideways.
 

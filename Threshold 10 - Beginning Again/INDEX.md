@@ -1,4 +1,4 @@
-# Threshold 9: Beginning Again
+# Threshold 10: Beginning Again
 
 *Honoring the cycle and starting the next turn.*
 

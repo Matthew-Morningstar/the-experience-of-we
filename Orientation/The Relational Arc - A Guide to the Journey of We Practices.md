@@ -22,9 +22,9 @@ The arc is a **spiral**, not a line.
 
 Relationships don't complete one threshold and graduate to the next. They cycle through all thresholds repeatedly, sometimes in a single conversation, sometimes across years. Each cycle deepens the previous one. What was learned in the first pass through "Creating the Container" becomes the foundation for a more profound container the next time through.
 
-The journey moves through nine thresholds. Each threshold marks a crossing into new relational territory. The word is deliberate: a threshold is a doorway, not a rank. Threshold 7 isn't "better than" Threshold 1. The thresholds describe capacities, not rankings. Some relationships will spend most of their time in Thresholds 1 and 2, and that isn't a lesser form of practice. Every return to Threshold 1 is deepened by everything that came after it, which means arriving in presence for the hundredth time is a different act than arriving for the first. The spiral treats all thresholds as equally essential. So do we.
+The journey moves through ten thresholds. Each threshold marks a crossing into new relational territory. The word is deliberate: a threshold is a doorway, not a rank. Threshold 8 isn't "better than" Threshold 1. The thresholds describe capacities, not rankings. Some relationships will spend most of their time in Thresholds 1 and 2, and that isn't a lesser form of practice. Every return to Threshold 1 is deepened by everything that came after it, which means arriving in presence for the hundredth time is a different act than arriving for the first. The spiral treats all thresholds as equally essential. So do we.
 
-The nine thresholds:
+The ten thresholds:
 
 1. **Foundation** — building the container, showing up, sensing together, being real
 2. **Tending the Ground** — tending the material conditions that relational life depends on
@@ -32,9 +32,10 @@ The nine thresholds:
 4. **Navigating Challenge** — meeting what's hard, finding our way through, and navigating what goes deeper
 5. **Repairing** — making it right when things break
 6. **Transforming** — making change real and lasting
-7. **Emergence** — what becomes possible when the foundation is solid
-8. **The Larger Pattern** — practices that synthesize the whole journey
-9. **Beginning Again** — honoring the cycle and starting the next turn
+7. **The Body Between Us** — knowing the body, honoring its rhythms, understanding its expression, and developing the full spectrum of conscious physical contact
+8. **Emergence** — what becomes possible when the foundation is solid
+9. **The Larger Pattern** — practices that synthesize the whole journey
+10. **Beginning Again** — honoring the cycle and starting the next turn
 
 ---
 
@@ -384,7 +385,59 @@ The capacity to stay present, feeling, integrated, and together when difficulty 
 
 ---
 
-## Threshold 7: Emergence
+## Threshold 7: The Body Between Us
+
+*The body is where everything we've practiced becomes physical. This threshold brings the relational capacities developed in earlier thresholds — presence, trust, repair, transformation — into the body's most intimate territories: its architecture, its rhythms, its expression, and its capacity for conscious physical contact.*
+
+The Experience of We explores the body across multiple layers of reality at once. The body has a biological structure shaped by hormones and evolution. The body moves through time in cycles that change its experience. The body expresses itself in relationship through patterns shaped by both biology and experience. None of these layers replaces the others. They interact. Biology shapes what is likely. Culture shapes what is permitted. Relationship shapes what becomes expressed. We are learning to see all three at once — not to reduce one to another, but to understand how they move together.
+
+### Body Knowledge
+
+We begin by learning what lives in the bodies we share our relational field with — their architecture, their rhythms, their expression.
+
+**Exploring the Male Body Together**
+*A Shared Practice for Knowing and Honoring the Body He Lives In*
+The male body as a living system shaped by testosterone, evolution, and cultural conditioning — brought into the relational field to be known, tended, and honored rather than overridden or ignored.
+
+**Exploring the Female Body Together**
+*A Shared Practice for Knowing and Honoring the Body She Lives In*
+The female body as a living system shaped by estrogen, oxytocin, and cultural conditioning — brought into the relational field to be known, tended, and honored rather than evaluated or managed.
+
+**Exploring the Virility Cycle Together**
+*A Shared Practice for Understanding the Rhythms of the Male Body*
+The daily, seasonal, and lifetime hormonal rhythms of the male body — made visible and relational so that both people can understand and work with the body's changing energy, mood, desire, and capacity.
+
+**Exploring the Fertility Cycle Together**
+*A Shared Practice for Understanding the Rhythms of the Female Body*
+The monthly and lifetime hormonal rhythms of the female body — made visible and relational so that both people can understand and work with the body's cycling energy, mood, desire, pain, and capacity.
+
+**Exploring Gender Expression Together**
+*A Shared Practice for How We Become Visible to Each Other*
+How the body becomes signal in the relational field — the patterns of movement, tone, posture, and presence that carry gendered meaning, how they were shaped, what range is available, and how expression creates the space between us.
+
+### Touch Spectrum
+
+With the body known, we explore how bodies meet — through three distinct modes of physical contact that the culture has collapsed into one.
+
+**Exploring Affectionate Touch Together**
+*A Shared Practice for the Touch That Says I Am Here*
+The foundational layer of physical contact — non-sexual, non-sensual, available across all relational containers. The touch that says "I'm here, I care about you, you are not alone in your body right now."
+
+**Exploring Sensual Touch Together**
+*A Shared Practice for the Pleasure of Being Felt*
+The middle ground the culture lost — touch where sensation and pleasure are the point, without destination or sexual expectation. Reclaiming the body's capacity for enjoyment as its own complete act.
+
+**Exploring Intimate Touch Together**
+*A Shared Practice for the Vulnerability of Full Contact*
+The deepest layer of physical contact — where the body opens, defenses release, and two people meet in full vulnerability. Intimacy as a quality of presence and surrender, not reducible to sexual acts.
+
+### Sexuality Series (in development)
+
+Six guides exploring the sexual dimension of relational life: selfhood, desire, communication, embodiment, repair, and evolution. These guides build on the body knowledge and touch practices and will be released as they are completed.
+
+---
+
+## Threshold 8: Emergence
 
 *When the earlier thresholds have stabilized, new capacities emerge. These aren't just skills. They're the natural expressions of a living relational system that has developed the depth to hold them.*
 
@@ -446,7 +499,7 @@ Distinction without separation in action. As the relationship deepens, the capac
 
 ---
 
-## Threshold 8: The Larger Pattern
+## Threshold 9: The Larger Pattern
 
 *These practices sit above the developmental sequence. They synthesize the entire journey into meta-patterns, offering a view of how awareness develops recursively, how catalytic moments connect across the spiral, and how attention itself becomes fluid.*
 
@@ -470,7 +523,7 @@ The orienting layer that gives meaning and direction to all other practices. Spi
 
 ---
 
-## Threshold 9: Beginning Again
+## Threshold 10: Beginning Again
 
 *Every cycle of growth deserves completion: acknowledgment of what has been accomplished and conscious choice about what comes next.*
 
@@ -492,8 +545,8 @@ The We Practices arc mirrors the architecture of a Living Relational System as d
 | Trust | Threshold 1: Foundation |
 | Safety | Threshold 1: Foundation |
 | Co-regulation | Threshold 1: Foundation |
-| Co-metabolization | Threshold 7: Emergence |
-| Love | Threshold 7: Emergence |
+| Co-metabolization | Threshold 8: Emergence |
+| Love | Threshold 8: Emergence |
 | **Reunion** | *Emergent from all thresholds* |
 
 When the practices stabilize into a self-reinforcing loop, **Reunion** becomes possible.
@@ -563,7 +616,7 @@ The arc includes six awareness practices distributed across the thresholds. Toge
 | Developing Awareness Together | 1: Sensing Together | Field sensing — "I can sense what's happening between us" | Field unconsciousness |
 | Developing Mindfulness Together | 1: Sensing Together | Observing without becoming — "I can stay with what's here without reacting" | Automatic identification |
 | Developing Meta-Awareness Together | 3: Building a Shared World | Awareness of awareness — "I can observe my own observing" | Fusion with process |
-| Developing Fluid Awareness Together | 8: The Larger Pattern | Navigational freedom — "I can move my awareness where it's needed" | Compulsion |
+| Developing Fluid Awareness Together | 9: The Larger Pattern | Navigational freedom — "I can move my awareness where it's needed" | Compulsion |
 
 This sequence doesn't need to be followed separately. The practices appear in their developmental positions within the arc. But seeing them together can help clarify how awareness matures across the journey: from the basic act of being here, through body sensing and field perception, to the fluid, self-aware attention that marks deep relational practice.
 
