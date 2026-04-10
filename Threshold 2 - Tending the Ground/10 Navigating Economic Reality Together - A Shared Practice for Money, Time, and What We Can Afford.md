@@ -10,9 +10,19 @@ Not because we don't think about it. We think about it constantly. We worry abou
 
 This guide isn't a financial planning resource. It won't tell us how to budget, invest, or get out of debt. What it offers instead is a relational practice for seeing economic reality clearly as a couple and navigating it together. Because economic forces don't just create stress — they shape what our relationship can do. They determine how much time we have for each other, how much energy is left over for connection, how many of our decisions are genuinely free and how many are made under duress. Economic reality is the ecology within which our relational life grows or withers. And that ecology is not neutral. It is actively extracting from us: our time, our attention, our capacity for presence, all to fuel a system that does not care whether our relationship survives.
 
+This doesn't mean we're powerless. Within a system we didn't design and can't exit, we still have meaningful room — not infinite room, but enough to matter — to shape how money lives between us. Even small shifts in how we talk about it, decide together, and protect what's precious can meaningfully change the quality of the relationship. The constraints are real. So is the leverage we still hold.
+
+A note before we go further. This territory is charged. Economic reality carries fear, shame, survival, and identity in the same breath, and for many of us, reading about it activates the exact nervous system states the guide is asking us to notice. If any part of this feels overwhelming, we can pause. Slow the reading down. Put it aside and come back. Even naming that this is hard is already part of the practice. We meet this domain in pieces, with whatever gentleness we can find.
+
 Different economic positions create radically different constraints. Some of us are choosing between organic and conventional. Others are choosing between rent and food. The practice must be honest about this. Economic stress is not a personal failing. It is a systemic condition, and it falls unevenly. What we share, across every economic position, is that money shapes our relational field in ways we rarely name, and that naming it together is the beginning of navigating it with integrity.
 
 ~Matthew and Naomi Danielle Morningstar
+
+---
+
+### If we begin anywhere
+
+*We look at one actual number together — not the whole picture, just one number that's present in our life. We name one trade-off we're currently living inside. And we share one feeling about money that we haven't said out loud. That's the whole beginning. We don't need to do all of this at once, and we don't need to arrive at this guide already knowing how.*
 
 ---
 
@@ -139,6 +149,8 @@ Understanding these patterns doesn't solve them. But it changes the conversation
 
 These are our best practices for navigating economic reality together. This is not an exhaustive list; we encourage you to adjust these and add your own.
 
+*A note on developmental pacing.* Full shared awareness, full transparency, and fully joint decision-making are capacities we build toward over time — not requirements we have to meet from the start. Some relationships arrive here already able to hold this work. Most don't. If we're not yet able to look at the numbers together without defensiveness, or to make decisions jointly without one person quietly taking over, that's not a failure. It's the starting condition. Meet yourselves where you actually are. A small move toward shared awareness is already a move worth making, and the capacity grows through the practice itself.
+
 ### We practice seeing the full picture together
 
 Shared awareness begins with both people knowing what's real.
@@ -171,6 +183,8 @@ Every economic decision is a relational decision. This practice makes the trade-
 
 Economic time will take everything we let it have. This practice is about drawing a line.
 
+*A note on scale.* For those of us with real flexibility, protection may look like a protected evening or an untouchable weekend. For those of us in survival conditions — working two jobs, caring for children alone, navigating disability or chronic illness — protection may look like five honest minutes at the door, or one real conversation a week. Both are the practice. The scale changes with the constraints; the orientation does not. If the only protection we can manage right now is the smallest possible one, that protection still matters.
+
 - **We identify our non-negotiable relational time.** Certain hours, certain days, certain rhythms of connection are too important to sacrifice — even when the economic pressure says otherwise. We name them and protect them.
 - **We recognize the diminishing returns of overwork.** Past a certain point, more hours of labor do not translate into proportional benefit. They translate into exhaustion, disconnection, and relational damage that costs more to repair than the extra income is worth.
 - **We resist the urgency that economic culture manufactures.** Not every email needs an immediate response. Not every opportunity needs to be seized. Not every financial anxiety requires immediate action. We learn to distinguish genuine economic urgency from manufactured pressure.
@@ -184,6 +198,8 @@ Economic time will take everything we let it have. This practice is about drawin
 ### We practice examining consumer impulses together
 
 Consumer culture is designed to bypass our deliberation. This practice reinstates it.
+
+*Not all consumption is misaligned.* Rest has a cost. Pleasure has a cost. Beauty, cultural participation, and ordinary delight all have costs. Spending money on things that genuinely nourish us is not the problem this practice is pointing at. The practice is distinguishing what actually nourishes us from what substitutes for something we really need — connection, rest, meaning — and can't deliver. Both kinds of spending exist. Our work is to tell them apart without treating every purchase as suspect.
 
 - **We pause before significant purchases.** Not to create a bureaucracy, but to bring awareness to the space between impulse and action. "Do we actually need this, or does the wanting itself deserve attention?"
 - **We ask what the purchase is substituting for.** Sometimes we buy things because we're lonely, bored, anxious, or disconnected. The purchase addresses the symptom. The underlying need, for connection, for rest, for meaning, remains unmet.
