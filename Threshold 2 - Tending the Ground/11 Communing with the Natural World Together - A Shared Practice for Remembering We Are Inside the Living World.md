@@ -12,6 +12,8 @@ But most of us don't experience it that way. We experience nature as background 
 
 This guide is about re-establishing a relationship. Not with an abstraction called "nature," but with the actual living world — the air, the soil, the water, the light, the sound, the other species, the weather, the rhythms of the day and the season — that we are always, already, inside of. And it's about doing this together, because when two people share this relationship, the relational field between them expands to include something larger than either of them. The third presence changes everything.
 
+A note on variation. For most of us, contact with the living world is regulating — settling, softening, restoring. For some of us, it isn't always. Trauma associations, sensory sensitivity, discomfort with insects or heat, histories that made certain outdoor spaces feel unsafe — any of these can make the living world feel activating rather than calming. If that's us, we work with what's tolerable rather than what's ideal. We start with the smallest, most accessible contact we can actually receive, and we build the relationship gradually. Gentleness is always permitted.
+
 ~Matthew and Naomi Danielle Morningstar
 
 ---
@@ -122,6 +124,8 @@ Naming this matters because it removes the guilt. We're not disconnected from th
 ## Communing with the natural world is a practice
 
 These are our best practices for re-establishing and sustaining a shared relationship with the living world. This is not an exhaustive list; we encourage you to adjust these and add your own.
+
+*A note before we begin.* There's nothing we need to achieve in this practice. Even the smallest contact — noticing the air, hearing one bird, feeling the sun through a window — is already the practice. And the living world is more available than it can seem. If we don't have access to parks, forests, or open country, we begin with what's here: a window, a potted plant, the sky between buildings, the feel of outdoor air when we open the door, the weather visible from a balcony or a stoop. This practice scales to whatever living contact is actually within reach. It's not reserved for people with backyards or hiking boots.
 
 ### We practice sensory contact
 
