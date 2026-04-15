@@ -49,6 +49,8 @@ We suggest limiting yourself to 1-2 practices at a time, giving each one space t
 
 Good perspective-sharing feels like expansion. Our world gets larger. We understand something we didn't understand before — not because we were told, but because we were allowed to see from somewhere we've never stood.
 
+We can often feel the difference in the body. When we're gripping a perspective tightly — identified with it, needing to be right — there's contraction: a narrowing, an urgency, a bracing. When space opens between perspectives — when we can hold ours and receive another's — there's a softening, a widening, something closer to breathing. Both signals are worth tracking. They tell us which mode we're in before our thoughts do.
+
 When perspectives are shared well between us:
 
 - We feel seen — our view is witnessed, not just heard
@@ -67,7 +69,7 @@ When perspective-sharing breaks down:
 - We pretend to share a view that we don't actually share
 - Conversation feels like debate or performance rather than genuine exchange
 
-The difference between these two experiences often comes down to a few specific capacities — and those capacities can be developed with practice.
+The difference between these two experiences often comes down to a few specific capacities — and those capacities can be developed with practice. It's worth naming that this can feel unnatural at first. Most of us have been trained to defend our position or accommodate the other's, not to explore difference together. The practice asks for something different from either of those defaults, and it takes time to develop.
 
 **A reflection for us:** When has hearing the other person's perspective genuinely changed how we see something? What made that possible?
 
@@ -95,6 +97,7 @@ This means:
 - No single perspective captures the whole
 - Every perspective contains something true — what is visible from that position
 - Every perspective is incomplete — what is invisible from that position
+- Every perspective can also be inaccurate, or shaped by limited or distorted information — partiality is not the same as equal validity
 - Two perspectives together reveal more than either one alone
 
 ### The four capacities this practice develops
@@ -195,7 +198,7 @@ True reception is generous. It gives the other person's perspective room to be i
 
 ### We practice holding both views at once
 
-This is the most demanding practice — maintaining our perspective and the other's simultaneously, without collapsing into agreement or opposition.
+This is the most demanding practice — maintaining our perspective and the other's simultaneously, without collapsing into agreement or opposition. This capacity develops over time. We don't need to hold multiple views perfectly — even glimpsing the other perspective for a moment while staying connected to our own is already the practice working. What we're building is a muscle, not a switch.
 
 - **We articulate both views internally.** "From my position, I see X. From their position, they see Y. Both are views of something real." Simply naming both perspectives helps us hold them.
 
@@ -221,7 +224,7 @@ Some of the most powerful — and most vulnerable — perspective-sharing happen
 
 - **We share what we see about us.** "The way I see our relationship right now is..." "What I notice about how we are together is..." We offer our perception of the relationship itself.
 
-- **We receive with extra care.** Hearing someone else's perspective on *us* is more activating than hearing their perspective on anything else. We give ourselves room to be affected, to feel, to process — without immediately defending.
+- **We receive with extra care.** Hearing someone else's perspective on *us* is more activating than hearing their perspective on anything else. We give ourselves room to be affected, to feel, to process — without immediately defending. We move slowly here, and only with enough safety between us. Perspectives about each other land deep, and we prioritize care over completeness. Not everything needs to be said today.
 
 - **We remember that perspectives about each other are still perspectives.** Partial. Shaped by position. Containing truth and also incompleteness. Even perspectives about us don't define us; they reveal what is visible from that position.
 
@@ -345,7 +348,7 @@ It will go wrong sometimes. We will impose, collapse, pretend to agree, or get s
 - **We name the pattern.** "I notice your perspective tends to take up more space than mine." Or: "I notice I tend to defer to your view."
 - **We actively rebalance.** The person whose view dominates practices making more room. The person who defers practices holding their ground.
 - **We notice whose perspective shapes decisions.** Not just what we say — what we do. Whose view actually determines how we act?
-- **We treat this as structural, not personal.** Power dynamics shape perspective-sharing even between people with good intentions.
+- **We treat this as structural, not personal.** Power dynamics shape perspective-sharing even between people with good intentions. Without attention, perspective-sharing can reinforce existing power dynamics rather than balance them — the more dominant perspective gets validated as "shared" while the less powerful one gets absorbed or silenced.
 
 ---
 
