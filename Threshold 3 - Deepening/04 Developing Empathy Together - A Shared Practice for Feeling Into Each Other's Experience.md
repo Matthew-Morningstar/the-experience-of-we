@@ -129,6 +129,8 @@ Empathy in a relationship is not fixed. It changes over time:
 
 These are our best practices for developing the shared capacity to feel into each other's experience. This is not an exhaustive list; we encourage you to adjust these and add your own.
 
+*A note before we begin.* Empathy is not always available. It depends on our state, our capacity, and the conditions between us — and when it's absent, that's information, not failure. Even when it is available, it's often partial and evolving. We don't need to feel our partner's experience perfectly. Even getting close — even a moment of genuine contact with what they're carrying — is meaningful and builds the bridge over time. We move at a pace that feels manageable. If something in these practices feels overwhelming, slowing down or stepping back is part of the practice, not a departure from it.
+
 ### We practice empathic listening
 
 Listening not just for content but for the felt experience underneath the words.
@@ -151,6 +153,7 @@ Deliberately entering our partner's experience rather than observing it from out
 - **We ask: "What is this like for you?"** And then we really listen. We let their description reshape our understanding rather than confirming what we already assumed.
 - **We stay with their experience before returning to our own.** When our partner shares something painful, the impulse is often to bounce back to our own perspective: "Well, I feel..." We practice staying in their world a little longer before crossing back to ours. The gap is the gift.
 - **We let ourselves be affected.** Empathy changes us. When we truly feel what our partner feels, we're not the same afterwards. We don't shield ourselves from the impact — we let it land. This isn't about suffering alongside them; it's about letting their experience register fully in us.
+- **We cross while remaining anchored.** We enter their experience without losing our own ground. We can feel what they feel without taking responsibility for fixing or managing it. The bridge has two ends — we visit their side and we return to ours. Empathy that loses the self isn't empathy; it's dissolution. We stay porous and distinct at the same time.
 - **We practice with positive experiences too.** Empathy isn't only for suffering. Feeling into our partner's joy, excitement, relief, or pride is equally important and often overlooked. When something good happens to them, we practice genuinely sharing the feeling rather than just acknowledging the news.
 
 *When to use: When we notice we're observing our partner's experience from a distance rather than feeling it. When their reaction surprises us and we want to understand from the inside. When we want to deepen connection beyond the cognitive level.*
@@ -282,6 +285,7 @@ Tending the conditions that make empathy possible — because empathy requires a
 
 - **We name the pattern.** "I feel like you're reading me to manage me rather than to understand me." This is uncomfortable but necessary.
 - **We distinguish empathy from surveillance.** Empathy serves connection. Surveillance serves control. The felt difference is in the motivation: "I'm feeling into you because I want to be close to you" versus "I'm feeling into you because I need to know what you're going to do."
+- **We name the cost.** Empathy used for control erodes trust more deeply than a lack of empathy — because it takes the most intimate form of knowing and turns it into a weapon. The person being read-for-control learns that being known is not safe, which is the opposite of everything this practice is building.
 - **We address the fear underneath.** Empathy-as-control usually comes from anxiety — the need to predict and manage stems from not feeling safe. We address the safety need rather than just correcting the behavior.
 
 ---
