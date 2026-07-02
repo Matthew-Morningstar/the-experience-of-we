@@ -22,7 +22,7 @@ This repository contains the full practice system, released as open-source relat
 
 ## What's here
 
-The repository is organized into the sections below, listed in the order they appear in the repo. Two orient you to the work (**About The Experience of We**, **Connect and Contribute**), two hold the ideas and the way in (**Foundational Concepts**, **Orientation**), and two are the practices themselves (**Quick Starts** for one practice to try tonight, **Practice Guides** for the full developmental arc).
+The repository is organized into the sections below, listed in the order they appear in the repo. Two orient you to the work (**About The Experience of We**, **Connect and Contribute**), two hold the ideas and the way in (**Foundational Concepts**, **Orientation**), one goes deeper into the theory and design beneath it all (**Our Deeper Framework**), and two are the practices themselves (**Quick Starts** for one practice to try tonight, **Practice Guides** for the full developmental arc).
 
 ### About The Experience of We
 
@@ -66,6 +66,16 @@ Eight documents that help you enter the practice — from understanding what the
 - **Taking On Practices Together** — How to build relational skills as a pair
 - **Inviting a Companion** — How to share this with someone you trust
 - **Beginning on Your Own** — How to practice before you find your companion
+
+### Our Deeper Framework
+
+The theory and design beneath the practices, for readers who want the ground they rest on. Not required for practice; here when you want it.
+
+→ [`Our Deeper Framework/`](Our%20Deeper%20Framework/)
+
+- **The Sacred and the Divine** — the spiritual heart, in three voices (sacred, systems, and plain)
+- **The Rhythm of Persistence and Becoming** — how living systems grow, through immanence and transcendence
+- **The Relational Ark** — how the journey of two becomes the infrastructure of many
 
 ### Quick Starts
 
@@ -124,7 +134,7 @@ The practices in this repository are informed by a larger theoretical framework 
 - The Great Pattern — how dysfunctional relational code replicates fractally from individual to civilizational scale
 - The Relational Ark — a living systems design for scaling relational coherence
 
-Those documents will be released separately. The rest of the system stands on its own.
+Some of this deeper framework now lives in the repository, in [Our Deeper Framework](Our%20Deeper%20Framework/) — the Sacred and the Divine, the Rhythm of Persistence and Becoming, and the Relational Ark. Others, including the Adversary and the Great Pattern, will be released separately. The rest of the system stands on its own.
 
 ---
 
