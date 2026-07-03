@@ -42,7 +42,7 @@ The Experience of We stays alive partly through the people who live it. This is 
 
 ### Foundational Concepts
 
-Five guides that introduce the key ideas behind the practices — written for felt understanding, not academic knowledge. Each has an optional systems appendix for readers who want the deeper architecture.
+Seven guides that introduce the key ideas behind the practices — written for felt understanding, not academic knowledge. Each has an optional systems appendix for readers who want the deeper architecture.
 
 → [`Foundational Concepts/`](Foundational%20Concepts/)
 
@@ -50,6 +50,8 @@ Five guides that introduce the key ideas behind the practices — written for fe
 - **Understanding Reunion** — What happens when we adapt back toward connection
 - **Understanding Shared Reality** — What happens when we build a world together
 - **Understanding the Relational Field** — What lives between us
+- **Understanding Distinction Without Separation** — How we can be fully ourselves and fully connected
+- **Understanding Agency Within Constraint** — How our choices can be real without being free
 - **Understanding Our AI Companion** — What it means when relational intelligence crosses the digital threshold
 
 ### Orientation
