@@ -102,7 +102,7 @@ Both treat *caused* and *real* as a trade-off, where more of one means less of t
 
 ### Will as a thermodynamic function
 
-The claim that "will is not free" is not only philosophical; it is literal. Every act of will is a physical event with a metabolic cost. Directed attention, inhibition of impulse, decision under uncertainty, the overriding of a prepotent response — these draw down real and finite resources, and their depletion is measurable, appearing in the research literature under names like ego depletion, decision fatigue, and cognitive load, and in the body as allostatic load. There is no costless act of will, because there is no costless act of anything: agency is work, and work has a price. This is the ground beneath the whole principle. "Not free" is not a metaphor for "constrained by circumstance." It is a description of energetics.
+The claim that "will is not free" is not only philosophical; it is literal. Every act of will is a physical event with a metabolic cost. Directed attention, inhibition of impulse, decision under uncertainty, the overriding of a prepotent response — these draw down real and finite resources. There is no costless act of will, because there is no costless act of anything: agency is work, and work has a price. (Psychology has tried to measure this fatigue directly, under names like ego depletion and decision fatigue; those specific findings are contested and may not replicate cleanly, but the deeper claim doesn't rest on them — it rests on basic energetics.) "Not free" is not a metaphor for "constrained by circumstance." It is a description of what it costs to act.
 
 ### The distribution of cost through the field
 
